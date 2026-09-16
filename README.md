@@ -4,12 +4,9 @@
 
 Founder & Ai Engineer  at [Denvar Ai](denvarai.com);<br>
 Based in Western Province, Sri Lanka;<br>
-
-- ⚙️ I use daily: `.earlystageventures, .start-upventures, .branddevelopment, .contentfunnels`
-- 🌍 I'm mostly active within the **Early Stage Ventures Community**
+*
 - 💬 `ping` me about **Early-stage ventures, Startup Growth , Ai engineering**
 - 📫 How to reach me: [sonalthilakarathna@denvarai.com](mailto:sonalthilakarathna@denvarai.com)
-- ⚡ Fun fact: I love Claude 
 
 ---
 
