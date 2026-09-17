@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### Founder & Ai Engineer  by day ☼ and Open Source Contributor by night ☾
+#### Founder & Ai Engineer  
 
 Founder & Ai Engineer  at [Denvar Ai](denvarai.com);<br>
 Based in Western Province, Sri Lanka;<br>
