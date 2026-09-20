@@ -2,15 +2,9 @@
 
 #### Founder & Ai Engineer  
 
-
-*
 - 💬 `ping` me about **Early-stage ventures, Startup Growth , Ai engineering**
 - 📫 How to reach me: [sonalthilakarathna@denvarai.com](mailto:sonalthilakarathna@denvarai.com)
 
-History
-
--Build a Zentral.app - A Client interaction tool for freelancers (2024- 2025)
--Found a Denvar ai - A personal branding operating system for founders (2026 - present)
 
 ---
 
