@@ -2,7 +2,7 @@
 
 #### Founder & Ai Engineer  
 
-Founder & Ai Engineer  at [Denvar Ai](denvarai.com);<br>
+Founder & Ai Engineer at Denvar AI 
 Based in Western Province, Sri Lanka;<br>
 *
 - 💬 `ping` me about **Early-stage ventures, Startup Growth , Ai engineering**
